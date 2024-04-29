@@ -1,0 +1,34 @@
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\bin\Debug\net6.0-windows\Interpreter322.exe
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\bin\Debug\net6.0-windows\Interpreter322.deps.json
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\bin\Debug\net6.0-windows\Interpreter322.runtimeconfig.json
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\bin\Debug\net6.0-windows\Interpreter322.dll
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\bin\Debug\net6.0-windows\Interpreter322.pdb
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.csproj.GenerateResource.cache
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.GeneratedMSBuildEditorConfig.editorconfig
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.AssemblyInfoInputs.cache
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.AssemblyInfo.cs
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.csproj.CoreCompileInputs.cache
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.sourcelink.json
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.dll
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\refint\Interpreter322.dll
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.pdb
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.genruntimeconfig.cache
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\ref\Interpreter322.dll
+I:\Important\Desktop\Stuffs\School Stuff\CS322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.Interface.resources
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\bin\Debug\net6.0-windows\Interpreter322.exe
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\bin\Debug\net6.0-windows\Interpreter322.deps.json
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\bin\Debug\net6.0-windows\Interpreter322.runtimeconfig.json
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\bin\Debug\net6.0-windows\Interpreter322.dll
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\bin\Debug\net6.0-windows\Interpreter322.pdb
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.Interface.resources
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.csproj.GenerateResource.cache
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.AssemblyInfoInputs.cache
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.AssemblyInfo.cs
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.csproj.CoreCompileInputs.cache
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.sourcelink.json
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.dll
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\refint\Interpreter322.dll
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.pdb
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\Interpreter322.genruntimeconfig.cache
+C:\Users\guriz\OneDrive\Desktop\Interpreter322\Interpreter322\Interpreter322\obj\Debug\net6.0-windows\ref\Interpreter322.dll

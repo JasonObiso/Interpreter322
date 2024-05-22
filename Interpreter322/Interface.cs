@@ -37,6 +37,8 @@ namespace Interpreter322
                 {
                     Interpreter program = new Interpreter(code);
                     program.Execute();
+                    if (!code.Contains("DISPLAY:"))
+                    Console.WriteLine("No Error");
                 }
                 catch (Exception exception)
                 {
